@@ -16,7 +16,7 @@ This project reconstruct a 3D building structure from two images (Wadham College
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ncquy/camera_calibration
+   git clone https://github.com/ncquy/two-view-reconstruction.git
    cd two-view-reconstruction
 
 2. Install the required packages:
